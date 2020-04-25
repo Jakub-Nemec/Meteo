@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteo-OOP", "Meteo-OOP\Meteo-OOP.csproj", "{207F114C-A378-42D1-B187-53345CFCCB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207F114C-A378-42D1-B187-53345CFCCB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207F114C-A378-42D1-B187-53345CFCCB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207F114C-A378-42D1-B187-53345CFCCB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207F114C-A378-42D1-B187-53345CFCCB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
